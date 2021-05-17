@@ -75,7 +75,7 @@ otherwise.
 .. option:: includedir <path>
 
    (Exactly one) directory to include all files from.
-   Default ``/etc/munin/plugin-conf.d/``
+   Default ``/etc/munin/munin-conf.d``
 
 .. option:: local_address <address>
 
